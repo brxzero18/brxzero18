@@ -34,6 +34,16 @@
 
 ---
 
+### 🎮 Discord Status
+
+<p align="left">
+  <a href="https://discord.com/users/903234502497812522">
+    <img src="https://lanyard.cnrad.dev/api/903234502497812522?theme=dark&bg=0d1117&borderRadius=8px&idleMessage=Probably%20coding%20or%20gaming..." alt="Discord Presence" />
+  </a>
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/tanmay-tode-073b91433"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
